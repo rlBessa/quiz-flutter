@@ -1,4 +1,4 @@
-# RocketSeat NLW5 - DevQuiz - Luigi Gontijo
+# RocketSeat NLW5 - DevQuiz
 
 Um projeto de Quiz feito em aula com o Gabul.Dev da Flutterando na NLW5 Trilha Flutter
 
